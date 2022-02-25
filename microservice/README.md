@@ -22,4 +22,4 @@ To get a map, you just need to provide the latitude and longitude data to a url 
 
 example:
 
-"http://localhost:3000/microservice/map/50.25&35.00"
+"http://localhost:5000/microservice/map/50.25&35.00"
